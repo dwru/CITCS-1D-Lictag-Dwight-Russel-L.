@@ -25,7 +25,7 @@ public class CalculatorLictag {
         int c;
         switch (operation){
             case "*":
-                System.out.println(x+y);
+                System.out.println(x*y);
                 break;
             case "-":
                 System.out.println(x-y);
